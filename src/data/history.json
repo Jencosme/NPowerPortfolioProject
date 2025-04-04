@@ -1,0 +1,21 @@
+
+
+[
+    {
+      "role": "Finance Assistant",
+      "organisation": "TAI",
+      "startDate": "March, 2022",
+      "endDate": "Present",
+      "experiences": ["Directed and optimized company cash operations, ensuring timely authorization and processing of payments, while accurately recording invoice receipts on banking platforms to maintain precise financial records."],
+      "imageSrc": "../assets/google.png"
+    },
+    {
+      "role": "Tax Preparer",
+      "organisation": "Liberty Tax",
+      "startDate": "Jan, 2021",
+      "endDate": "March, 2023",
+      "experiences": ["Provided guidance on tax preparation and filing procedures to more than 100 clients by evaluating tax forms and filing status. "],
+      "imageSrc": "history/microsoft.png"
+    }
+    
+  ]
